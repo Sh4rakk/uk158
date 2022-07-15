@@ -53,8 +53,8 @@
                 </div>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="page1.html">Geschiedenis</a></li>
-                    <li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="page2.html">Vismethode</a></li><li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="page3.html">Verwerking aan boord</a></li></ul>
+                <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="Geschiedenis">Geschiedenis</a></li>
+                    <li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="Vismethodes">Vismethode</a></li><li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="Verwerkingaanboord">Verwerking aan boord</a></li></ul>
                 
                 
             </div>
@@ -103,7 +103,7 @@
                     <h1 class="mbr-section-title mbr-fonts-style mb-3 display-1">
                         <strong>Geschiedenis</strong></h1>
                     <p class="mbr-text mbr-fonts-style display-7">Van deze botter is niet zo heel veel bekend. Het was een bestaand houten vissersvaartuig uit 1885 en het werd in 1912 door Albert van Urk ingeschreven in het Visserijregister. De botter was ongeveer 15.00 x 4.85 meter en 35.50 brt. In 1918 werd het schip voorzien van 1-cilinder Kromhoutmotor van 20pk. Voor de oorlog viste men veel op de Nederlandse kust en op de Zuiderzee en tijdens de oorlogsjaren ook op het IJsselmeer. Of het vaartuig ok gevorderd is geweest is niet bekend, maar tijdens die oorlogsjaren is het vaartuig wel overgeschreven op naam van zoon Willem van Urk en heeft daarna nog uitsluitend op het IJsselmeer gevist. In 1947 bestelde Willem een nieuw vaartuig en werd de botter uit vaart genomen.</p>
-                    <div class="mbr-section-btn mt-3"><a class="btn btn-black display-7" href="page1.html">Meer info</a></div>
+                    <div class="mbr-section-btn mt-3"><a class="btn btn-black display-7" href="Geschiedenis">Meer info</a></div>
                 </div>
             </div>
         </div>
@@ -124,7 +124,7 @@
                         <h1 class="card-title mbr-fonts-style mb-3 display-1">
                             <strong>Vismethodes</strong></h1>
                         <p class="mbr-text mbr-fonts-style display-7">Wil jij meer weten over de vismethodes die de UK158 gebruikt of heeft gebruikt klik dan op Meer info</p>
-                        <div class="mbr-section-btn mt-3"><a class="btn btn-black display-4" href="page2.html">Meer Info</a></div>
+                        <div class="mbr-section-btn mt-3"><a class="btn btn-black display-4" href="Vismethodes">Meer Info</a></div>
                     </div>
                 </div>
             </div>
@@ -149,7 +149,7 @@
                     <h1 class="mbr-section-title mbr-fonts-style mb-3 display-1"><p><strong>Verwerking aan boord</strong></p></h1>
                     <p class="mbr-text mbr-fonts-style display-7">
                         Wil jij weten hoe wij de vis verwerken aan boord klik dan op meer info</p>
-                    <div class="mbr-section-btn mt-3"><a class="btn btn-black display-7" href="page3.html">Meer&nbsp; info</a></div>
+                    <div class="mbr-section-btn mt-3"><a class="btn btn-black display-7" href="Verwerkingaanboord">Meer&nbsp; info</a></div>
                 </div>
             </div>
         </div>
