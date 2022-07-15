@@ -70,7 +70,7 @@
             <div class="col-md-12 col-lg-9">
                 <h1 class="mbr-section-title mbr-fonts-style mb-3 display-1"><strong>Verwerking aan boord</strong></h1>
                 <p class="mbr-text mbr-fonts-style display-4">Hier vind je alle informatie over hoe onze vis word verwerkt aan boord.</p>
-                <div class="mbr-section-btn mt-3"><a class="btn btn-black display-4" href="https://mobiri.se">Home</a></div>
+                <div class="mbr-section-btn mt-3"><a class="btn btn-black display-4" href="Home">Home</a></div>
             </div>
         </div>
     </div>
