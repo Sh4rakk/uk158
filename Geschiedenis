@@ -70,7 +70,7 @@
             <div class="col-md-12 col-lg-9">
                 <h1 class="mbr-section-title mbr-fonts-style mb-3 display-1"><strong>Geschiedenis</strong></h1>
                 <p class="mbr-text mbr-fonts-style display-4">Hier staat alle geschiedenis over de UK 158</p>
-                <div class="mbr-section-btn mt-3"><a class="btn btn-black display-4" href="index.html">Home</a></div>
+                <div class="mbr-section-btn mt-3"><a class="btn btn-black display-4" href="Home">Home</a></div>
             </div>
         </div>
     </div>
